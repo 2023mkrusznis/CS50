@@ -1,6 +1,6 @@
 # cat vs water
-**This is bold**
-*This is italicized*
+**This is bold** <br>
+*This is italicized* <br>
 ~~This is strikethrough~~
 
 numbered list
@@ -8,5 +8,5 @@ numbered list
 2. item 2
 
 bulletted list
-item 1
-item 2
+*item 1
+*item 2
