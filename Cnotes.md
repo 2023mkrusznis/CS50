@@ -41,3 +41,17 @@ else if (x = = y)
 {
   printf("x is equal to y\n");
 }  
+
+while (true)
+{
+  printf("hello, world\n")
+}
+
+To check whether i is less than 50 <br>
+for (int = 0; i = < 50; )
+{
+  printf( "hello, world\n");
+}
+
+string answer = get string ("what's your name\n");
+printf("hello, %s", answer);
