@@ -21,9 +21,9 @@ In C, you must declare the type of vaiable you are creating
 Scratch: change counter by 1
 
 ```C
-counter = counter + 1; # add any number to counter
-counter += 1; # add any number to counter
-counter++; # only add +1 to counter
+counter = counter + 1; // add any number to counter
+counter += 1; // add any number to counter
+counter++; // only add +1 to counter
 ```
 
 = does not mean "equal" it means "assign" or "get" <br>
