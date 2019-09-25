@@ -55,3 +55,18 @@ for (int = 0; i = < 50; )
 
 string answer = get string ("what's your name\n");
 printf("hello, %s", answer);
+
+#include <studio.h>
+
+int main(void)
+{
+  pritf(("hello, world\n");
+}
+
+}
+
+To convert to binary:
+clang hello.c
+./a.out
+
+be very specific
